@@ -1,0 +1,406 @@
+[
+  {
+    "id": "t3-021",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：正整数解个数用隔板法 C(n−1,k−1)，代入组合数计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-022",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：正整数解个数用隔板法 C(n−1,k−1)，代入组合数计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-023",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：正整数解个数用隔板法 C(n−1,k−1)，代入组合数计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-024",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：正整数解个数用隔板法 C(n−1,k−1)，代入组合数计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-025",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：n! 末尾连续 0 的个数等于因子 5 的总个数，按 Legendre 公式 ⌊n/5⌋+⌊n/25⌋+… 累加计数为整数值，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-026",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：n! 末尾连续 0 的个数等于因子 5 的总个数，按 Legendre 公式 ⌊n/5⌋+⌊n/25⌋+… 累加计数为整数值，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-027",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：n! 末尾连续 0 的个数等于因子 5 的总个数，按 Legendre 公式 ⌊n/5⌋+⌊n/25⌋+… 累加计数为整数值，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-028",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：n! 末尾连续 0 的个数等于因子 5 的总个数，按 Legendre 公式 ⌊n/5⌋+⌊n/25⌋+… 累加计数为整数值，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-029",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：n! 末尾连续 0 的个数等于因子 5 的总个数，按 Legendre 公式 ⌊n/5⌋+⌊n/25⌋+… 累加计数为整数值，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-030",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：n! 末尾连续 0 的个数等于因子 5 的总个数，按 Legendre 公式 ⌊n/5⌋+⌊n/25⌋+… 累加计数为整数值，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-031",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：n! 末尾连续 0 的个数等于因子 5 的总个数，按 Legendre 公式 ⌊n/5⌋+⌊n/25⌋+… 累加计数为整数值，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-032",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：n! 末尾连续 0 的个数等于因子 5 的总个数，按 Legendre 公式 ⌊n/5⌋+⌊n/25⌋+… 累加计数为整数值，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-033",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用鞋带公式 S=|x₁(y₂−y₃)+x₂(y₃−y₁)+x₃(y₁−y₂)|/2 代入坐标计算，取绝对值并约至最简分数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-034",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用鞋带公式 S=|x₁(y₂−y₃)+x₂(y₃−y₁)+x₃(y₁−y₂)|/2 代入坐标计算，取绝对值并约至最简分数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-035",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用鞋带公式 S=|x₁(y₂−y₃)+x₂(y₃−y₁)+x₃(y₁−y₂)|/2 代入坐标计算，取绝对值并约至最简分数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-036",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用鞋带公式 S=|x₁(y₂−y₃)+x₂(y₃−y₁)+x₃(y₁−y₂)|/2 代入坐标计算，取绝对值并约至最简分数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-037",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用鞋带公式 S=|x₁(y₂−y₃)+x₂(y₃−y₁)+x₃(y₁−y₂)|/2 代入坐标计算，取绝对值并约至最简分数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-038",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用鞋带公式 S=|x₁(y₂−y₃)+x₂(y₃−y₁)+x₃(y₁−y₂)|/2 代入坐标计算，取绝对值并约至最简分数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-039",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用鞋带公式 S=|x₁(y₂−y₃)+x₂(y₃−y₁)+x₃(y₁−y₂)|/2 代入坐标计算，取绝对值并约至最简分数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-040",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用鞋带公式 S=|x₁(y₂−y₃)+x₂(y₃−y₁)+x₃(y₁−y₂)|/2 代入坐标计算，取绝对值并约至最简分数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  }
+]

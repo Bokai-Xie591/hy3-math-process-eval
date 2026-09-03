@@ -1,0 +1,342 @@
+[
+  {
+    "id": "t2-061",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：无顺序选人用组合数 C(n,k)=n!/(k!(n−k)!)，展开约分计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-062",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：无顺序选人用组合数 C(n,k)=n!/(k!(n−k)!)，展开约分计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-063",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：无顺序选人用组合数 C(n,k)=n!/(k!(n−k)!)，展开约分计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-064",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：无顺序选人用组合数 C(n,k)=n!/(k!(n−k)!)，展开约分计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-065",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：无顺序选人用组合数 C(n,k)=n!/(k!(n−k)!)，展开约分计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-066",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：无顺序选人用组合数 C(n,k)=n!/(k!(n−k)!)，展开约分计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-067",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：无顺序选人用组合数 C(n,k)=n!/(k!(n−k)!)，展开约分计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-068",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：无顺序选人用组合数 C(n,k)=n!/(k!(n−k)!)，展开约分计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-069",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：无顺序选人用组合数 C(n,k)=n!/(k!(n−k)!)，展开约分计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-070",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：无顺序选人用组合数 C(n,k)=n!/(k!(n−k)!)，展开约分计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-071",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由对数定义设 2^x=真数，化为同底幂比较指数得到 x，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-072",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由对数定义设 2^x=真数，化为同底幂比较指数得到 x，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-073",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由对数定义设 2^x=真数，化为同底幂比较指数得到 x，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-074",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由对数定义设 2^x=真数，化为同底幂比较指数得到 x，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-075",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由对数定义设 2^x=真数，化为同底幂比较指数得到 x，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-076",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由对数定义设 2^x=真数，化为同底幂比较指数得到 x，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-077",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由对数定义设 2^x=真数，化为同底幂比较指数得到 x，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-078",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由对数定义设 2^x=真数，化为同底幂比较指数得到 x，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-079",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由对数定义设 2^x=真数，化为同底幂比较指数得到 x，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-080",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由对数定义设 2^x=真数，化为同底幂比较指数得到 x，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  }
+]

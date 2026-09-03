@@ -1,0 +1,554 @@
+[
+  {
+    "id": "t5-001",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：信封装错为错排问题，用递推 D_n=(n−1)(D_{n−1}+D_{n−2}) 自初值逐项计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      },
+      {
+        "id": 6,
+        "valid": true
+      },
+      {
+        "id": 7,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-002",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：信封装错为错排问题，用递推 D_n=(n−1)(D_{n−1}+D_{n−2}) 自初值逐项计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-003",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：信封装错为错排问题，用递推 D_n=(n−1)(D_{n−1}+D_{n−2}) 自初值逐项计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-004",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：信封装错为错排问题，用递推 D_n=(n−1)(D_{n−1}+D_{n−2}) 自初值逐项计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-005",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：信封装错为错排问题，用递推 D_n=(n−1)(D_{n−1}+D_{n−2}) 自初值逐项计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-006",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：按数位（个/十/百/千位）分别用高位·本位·低位公式统计数字出现次数后求和，各数位计数与合计无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-007",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：按数位（个/十/百/千位）分别用高位·本位·低位公式统计数字出现次数后求和，各数位计数与合计无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      },
+      {
+        "id": 6,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-008",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：按数位（个/十/百/千位）分别用高位·本位·低位公式统计数字出现次数后求和，各数位计数与合计无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-009",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：按数位（个/十/百/千位）分别用高位·本位·低位公式统计数字出现次数后求和，各数位计数与合计无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      },
+      {
+        "id": 6,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-010",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：按数位（个/十/百/千位）分别用高位·本位·低位公式统计数字出现次数后求和，各数位计数与合计无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-011",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：裂项 1/(k(k+1))=1/k−1/(k+1) 后相邻项相消，仅剩首末两项得 n/(n+1)，计算与约分无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-012",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：裂项 1/(k(k+1))=1/k−1/(k+1) 后相邻项相消，仅剩首末两项得 n/(n+1)，计算与约分无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-013",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：裂项 1/(k(k+1))=1/k−1/(k+1) 后相邻项相消，仅剩首末两项得 n/(n+1)，计算与约分无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-014",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：裂项 1/(k(k+1))=1/k−1/(k+1) 后相邻项相消，仅剩首末两项得 n/(n+1)，计算与约分无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-015",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：裂项 1/(k(k+1))=1/k−1/(k+1) 后相邻项相消，仅剩首末两项得 n/(n+1)，计算与约分无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-016",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：容斥原理 |A∪B|=|A|+|B|−|A∩B|，三个整除计数（含 lcm 交集）与代入计算均无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-017",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：容斥原理 |A∪B|=|A|+|B|−|A∩B|，三个整除计数（含 lcm 交集）与代入计算均无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-018",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：容斥原理 |A∪B|=|A|+|B|−|A∩B|，三个整除计数（含 lcm 交集）与代入计算均无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-019",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：容斥原理 |A∪B|=|A|+|B|−|A∩B|，三个整除计数（含 lcm 交集）与代入计算均无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-020",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：容斥原理 |A∪B|=|A|+|B|−|A∩B|，三个整除计数（含 lcm 交集）与代入计算均无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  }
+]

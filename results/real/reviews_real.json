@@ -1,0 +1,474 @@
+[
+  {
+    "id": "real-01",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：幂级数上界证 e^0.1<10/9 得 a<b，e^x>1+x 得 a>0.11，交错级数上界证 c<0.1054<a，综合得 c<a<b，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "real-02",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：平方得 sinαcosα=−12/25，由 α∈(0,π) 判定 sinα−cosα=7/5，联立解出 sinα=4/5、cosα=−3/5，tanα=−4/3，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "real-03",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：等比中项条件 (1+d)²=1×(1+3d) 展开得 d(d−1)=0，由 d≠0 取 d=1，S₁₀=10+45=55，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "real-04",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：全排列 720 减去捆绑法甲乙相邻 240，得 480 种，与标准答案一致（暴力枚举复核一致）",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "real-05",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：通项 C(6,k)(−2)^k x^{6−2k}，常数项条件 6−2k=0 得 k=3，代入 C(6,3)(−2)³=−160，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "real-06",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：样本空间 C(5,2)=10，和为偶数即同奇偶共 C(3,2)+C(2,2)=4 种，P=2/5，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "real-07",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：f(1)=−1<0、f(2)=2>0，两增函数之和证 f 单调递增至多一个零点，由零点存在定理得零点在 (1,2)，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "real-08",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：降幂化简 y=2+sin2x−cos2x，辅助角公式得 2+√2·sin(2x−π/4)，x=5π/8 取最大值 2+√2，与标准答案一致（数值采样复核一致）",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "real-09",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：乘1法展开 (x+2y)(1/x+2/y)=5+2(x/y+y/x)≥9，故 1/x+2/y≥3，x=y=1 时等号成立，最小值 3，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "real-10",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：体对角线 2√3 即外接球直径，R=√3，V=(4/3)π(√3)³=4√3π，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "real-11",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：y²=8x 得 p=4、焦点 F(2,0)、准线 x=−2，由抛物线定义 |PF|=x_P+2=5 解得 x_P=3，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "real-12",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：驻点 x=0,2 均在区间内，四个候选点函数值 −2, 2, −2, 2，最大值 2，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "real-13",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：aₙ₊₁+1=2(aₙ+1) 构造等比数列得 aₙ=2ⁿ−1，a₁₀=1023，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "real-14",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：2³≡1 (mod 7)，2026=3×675+1，故 2^2026≡2 (mod 7)，与标准答案一致（pow(2,2026,7) 复核一致）",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "real-15",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：错排递推 D₁=0, D₂=1, D₃=2, D₄=9, D₅=44，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "real-16",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：同乘 4xy 得 (x−4)(y−4)=16，由 1/x≥1/3>1/4 论证 x,y>4，正因数对 (1,16)(2,8)(4,4) 共 3 组，与标准答案一致（枚举复核一致）",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "real-17",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：换元 x→1/x 得第二方程，消元解出 f(x)=2/x−x（经代入验证满足原方程），f(2)=−1，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "real-18",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：C(100,2)=4950，对立事件 C(50,2)=1225，P=3725/4950=149/198，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "real-19",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：|2a−b|²=4|a|²−4a·b+|b|²=16+12+9=37，开方得 √37，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "real-20",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：分段计数 Σj·2^j（j=0..9）加末项 10，错位相减求和 8×1024+2=8194，合计 8204，与标准答案一致（逐项暴力求和复核一致）",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  }
+]

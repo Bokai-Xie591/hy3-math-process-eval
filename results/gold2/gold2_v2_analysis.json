@@ -1,0 +1,46 @@
+{
+  "experiment": "gold2 E6 skip-step detection, v1 vs v2(anti-confabulation) reviewer prompt",
+  "detection": {
+    "v1": "5/10",
+    "v2": "5/10",
+    "same_5_ids": [
+      "gold2-002",
+      "gold2-005",
+      "gold2-007",
+      "gold2-008",
+      "gold2-009"
+    ]
+  },
+  "localization": {
+    "v1": "5/5 detected all localized correctly",
+    "v2": "5/5 same"
+  },
+  "false_positive_control": {
+    "batch11_v2": "20/20 normal solutions still judged correct, 0 false positives"
+  },
+  "taxonomy": {
+    "substantive_skip": {
+      "def": "删除的步骤产生了后续步骤要引用的新量/新结论（方程的根、CRT 通式、递推中间项）",
+      "ids": [
+        "gold2-002",
+        "gold2-005",
+        "gold2-007",
+        "gold2-008",
+        "gold2-009"
+      ],
+      "detection": "5/5 = 100%"
+    },
+    "trivial_compression": {
+      "def": "删除的步骤只是一步初等算术变形（移项、取整除法、指数化），其结果被压缩进下一步的表达式中",
+      "ids": [
+        "gold2-001",
+        "gold2-003",
+        "gold2-004",
+        "gold2-006",
+        "gold2-010"
+      ],
+      "detection": "0/5，v1/v2 一致容忍"
+    }
+  },
+  "conclusion": "Hy3 过程评审对实质性跳步检出 100% 且定位准确；对单步初等算术压缩稳定容忍（v1 与加严 v2 行为完全一致），该容忍边界与人类评分中允许合并移项/化简的惯例一致。"
+}

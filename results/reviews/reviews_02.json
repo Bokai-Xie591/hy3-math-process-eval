@@ -1,0 +1,378 @@
+[
+  {
+    "id": "t1-021",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：各步可由题设与前序步骤严格推出、计算无误、依据真实；解得 x 代回原方程两边相等，最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-022",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：各步可由题设与前序步骤严格推出、计算无误、依据真实；解得 x 代回原方程两边相等，最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-023",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：各步可由题设与前序步骤严格推出、计算无误、依据真实；解得 x 代回原方程两边相等，最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-024",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：各步可由题设与前序步骤严格推出、计算无误、依据真实；解得 x 代回原方程两边相等，最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-025",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：各步可由题设严格推出、计算无误、依据真实；最终答案数值与标准答案一致（末尾单位符合题设提问，如“多少元”“平方厘米”）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-026",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：各步可由题设严格推出、计算无误、依据真实；最终答案数值与标准答案一致（末尾单位符合题设提问，如“多少元”“平方厘米”）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-027",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：各步可由题设严格推出、计算无误、依据真实；最终答案数值与标准答案一致（末尾单位符合题设提问，如“多少元”“平方厘米”）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-028",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：各步可由题设严格推出、计算无误、依据真实；最终答案数值与标准答案一致（末尾单位符合题设提问，如“多少元”“平方厘米”）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-029",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：各步可由题设严格推出、计算无误、依据真实；最终答案数值与标准答案一致（末尾单位符合题设提问，如“多少元”“平方厘米”）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-030",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：各步可由题设严格推出、计算无误、依据真实；最终答案数值与标准答案一致（末尾单位符合题设提问，如“多少元”“平方厘米”）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-031",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：各步可由题设严格推出、计算无误、依据真实；最终答案数值与标准答案一致（末尾单位符合题设提问，如“多少元”“平方厘米”）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-032",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：各步可由题设严格推出、计算无误、依据真实；最终答案数值与标准答案一致（末尾单位符合题设提问，如“多少元”“平方厘米”）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-033",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：各步可由题设严格推出、计算无误、依据真实；最终答案数值与标准答案一致（末尾单位符合题设提问，如“多少元”“平方厘米”）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-034",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：各步可由题设严格推出、计算无误、依据真实；最终答案数值与标准答案一致（末尾单位符合题设提问，如“多少元”“平方厘米”）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-035",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：各步可由题设严格推出、计算无误、依据真实；最终答案数值与标准答案一致（末尾单位符合题设提问，如“多少元”“平方厘米”）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-036",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：各步可由题设严格推出、计算无误、依据真实；最终答案数值与标准答案一致（末尾单位符合题设提问，如“多少元”“平方厘米”）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-037",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：各步可由题设严格推出、计算无误、依据真实；最终答案数值与标准答案一致（末尾单位符合题设提问，如“多少元”“平方厘米”）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-038",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：各步可由题设严格推出、计算无误、依据真实；最终答案数值与标准答案一致（末尾单位符合题设提问，如“多少元”“平方厘米”）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-039",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：各步可由题设严格推出、计算无误、依据真实；最终答案数值与标准答案一致（末尾单位符合题设提问，如“多少元”“平方厘米”）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-040",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：各步可由题设严格推出、计算无误、依据真实；最终答案数值与标准答案一致（末尾单位符合题设提问，如“多少元”“平方厘米”）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "id": "t2-041",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：相向而行相对速度为两车速度之和，相遇时间 t=总路程÷速度和，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-042",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：相向而行相对速度为两车速度之和，相遇时间 t=总路程÷速度和，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-043",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：相向而行相对速度为两车速度之和，相遇时间 t=总路程÷速度和，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-044",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：相向而行相对速度为两车速度之和，相遇时间 t=总路程÷速度和，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-045",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：相向而行相对速度为两车速度之和，相遇时间 t=总路程÷速度和，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-046",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：相向而行相对速度为两车速度之和，相遇时间 t=总路程÷速度和，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-047",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：相向而行相对速度为两车速度之和，相遇时间 t=总路程÷速度和，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-048",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：相向而行相对速度为两车速度之和，相遇时间 t=总路程÷速度和，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-049",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：相向而行相对速度为两车速度之和，相遇时间 t=总路程÷速度和，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-050",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：相向而行相对速度为两车速度之和，相遇时间 t=总路程÷速度和，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-051",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先由勾股定理求斜边，再借面积等积法 h=ab/c 求斜边上的高并约至最简分数，计算与约分无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-052",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先由勾股定理求斜边，再借面积等积法 h=ab/c 求斜边上的高并约至最简分数，计算与约分无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-053",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先由勾股定理求斜边，再借面积等积法 h=ab/c 求斜边上的高并约至最简分数，计算与约分无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-054",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先由勾股定理求斜边，再借面积等积法 h=ab/c 求斜边上的高并约至最简分数，计算与约分无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-055",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先由勾股定理求斜边，再借面积等积法 h=ab/c 求斜边上的高并约至最简分数，计算与约分无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-056",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先由勾股定理求斜边，再借面积等积法 h=ab/c 求斜边上的高并约至最简分数，计算与约分无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-057",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先由勾股定理求斜边，再借面积等积法 h=ab/c 求斜边上的高并约至最简分数，计算与约分无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-058",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先由勾股定理求斜边，再借面积等积法 h=ab/c 求斜边上的高并约至最简分数，计算与约分无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-059",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先由勾股定理求斜边，再借面积等积法 h=ab/c 求斜边上的高并约至最简分数，计算与约分无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-060",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先由勾股定理求斜边，再借面积等积法 h=ab/c 求斜边上的高并约至最简分数，计算与约分无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  }
+]

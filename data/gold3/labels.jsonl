@@ -1,0 +1,20 @@
+{"id": "gold3-001", "orig_id": "t5-024", "gold_error_step": 2, "gold_error_type": "E6_跳步推导", "injected_content": "（删除原第 2 步：甲盒共 4+5=9 球，红球 5 个，P(R|A)=5/9；乙盒共 5+6=11 球，红球 6 个，P(R|B)=6/1…）"}
+{"id": "gold3-002", "orig_id": "t5-007", "gold_error_step": 5, "gold_error_type": "E6_跳步推导", "injected_content": "（删除原第 5 步：千位（p=1000）：h=0，c=(2026//1000)%10=2，l=26；c=2<4 ⇒ 0。…）"}
+{"id": "gold3-003", "orig_id": "t6-007", "gold_error_step": 4, "gold_error_type": "E6_跳步推导", "injected_content": "（删除原第 4 步：不见面区域 {y > x + 10} ∪ {x > y + 10} 为两个直角边长 60 − 10 = 50 的等腰直角…）"}
+{"id": "gold3-004", "orig_id": "t1-017", "gold_error_step": 3, "gold_error_type": "E6_跳步推导", "injected_content": "（删除原第 3 步：将常数项移到等号右边：两边同时加上 12，得 (3x − 12) + 12 = −9 + 12，即 3x = 3（依据：…）"}
+{"id": "gold3-005", "orig_id": "t4-027", "gold_error_step": 6, "gold_error_type": "E6_跳步推导", "injected_content": "（删除原第 6 步：a₆ = 3a₅ + 4 = 3×241 + 4 = 727（依据：递推式）。…）"}
+{"id": "gold3-006", "orig_id": "t5-015", "gold_error_step": 3, "gold_error_type": "E6_跳步推导", "injected_content": "（删除原第 3 步：相邻项相消：中间项全部抵消，仅剩 1 - 1/30。…）"}
+{"id": "gold3-007", "orig_id": "t4-024", "gold_error_step": 2, "gold_error_type": "E6_跳步推导", "injected_content": "（删除原第 2 步：合并 x ≡ 5 (mod 7) 与 x ≡ 4 (mod 5)：7k + 5 ≡ 4 (mod 5) → 2k ≡ −…）"}
+{"id": "gold3-008", "orig_id": "t4-021", "gold_error_step": 3, "gold_error_type": "E6_跳步推导", "injected_content": "（删除原第 3 步：再合并 x ≡ 1 (mod 3)：35m + 28 ≡ 1 (mod 3) → 2m + 1 ≡ 1 (mod 3)（…）"}
+{"id": "gold3-009", "orig_id": "t5-033", "gold_error_step": 3, "gold_error_type": "E6_跳步推导", "injected_content": "（删除原第 3 步：分解 N=45=3²×5，其奇因子个数 = (2+1)(1+1) = 6（即 1,3,5,9,15,45）。…）"}
+{"id": "gold3-010", "orig_id": "t5-012", "gold_error_step": 2, "gold_error_type": "E6_跳步推导", "injected_content": "（删除原第 2 步：将各项展开：原式 = (1/1 - 1/2) + (1/2 - 1/3) + … + (1/19 - 1/20)。…）"}
+{"id": "gold3-011", "orig_id": "t5-022", "gold_error_step": 3, "gold_error_type": "E6_跳步推导", "injected_content": "（删除原第 3 步：全概率：P(R)=1/2·6/11+1/2·1/2=3/11+1/4。通分得 (12+11)/44=23/44。…）"}
+{"id": "gold3-012", "orig_id": "t5-041", "gold_error_step": 4, "gold_error_type": "E6_跳步推导", "injected_content": "（删除原第 4 步：计算 ⌊50/7³⌋ = ⌊50/343⌋ = 0，后续项均为 0，停止。…）"}
+{"id": "gold3-013", "orig_id": "t5-014", "gold_error_step": 3, "gold_error_type": "E6_跳步推导", "injected_content": "（删除原第 3 步：相邻项相消：中间项全部抵消，仅剩 1 - 1/50。…）"}
+{"id": "gold3-014", "orig_id": "t5-008", "gold_error_step": 4, "gold_error_type": "E6_跳步推导", "injected_content": "（删除原第 4 步：百位（p=100）：h=0，c=(500//100)%10=5，l=0；c=5<8 ⇒ 百位为 8 的 800~899 …）"}
+{"id": "gold3-015", "orig_id": "t6-002", "gold_error_step": 3, "gold_error_type": "E6_跳步推导", "injected_content": "（删除原第 3 步：错位相减：S = 2S − S = 5×2⁶ − (2 + 2² + 2³ + 2⁴ + 2⁵)（依据：错位相减法，同幂…）"}
+{"id": "gold3-016", "orig_id": "t5-004", "gold_error_step": 3, "gold_error_type": "E6_跳步推导", "injected_content": "（删除原第 3 步：D_4 = 3·(D_3 + D_2) = 3·(2 + 1) = 9。…）"}
+{"id": "gold3-017", "orig_id": "t6-003", "gold_error_step": 4, "gold_error_type": "E6_跳步推导", "injected_content": "（删除原第 4 步：等比数列求和：2 + 2² + … + 2⁹ = 2¹⁰ − 2 = 1022（依据：等比数列前 n 项和公式）。…）"}
+{"id": "gold3-018", "orig_id": "t6-015", "gold_error_step": 4, "gold_error_type": "E6_跳步推导", "injected_content": "（删除原第 4 步：(r₂₉, r₃₀) = (1,1) = (r₁, r₂)，故余数序列以 28 为周期（依据：Pisano 周期原理）。…）"}
+{"id": "gold3-019", "orig_id": "t5-002", "gold_error_step": 4, "gold_error_type": "E6_跳步推导", "injected_content": "（删除原第 4 步：D_5 = 4·(D_4 + D_3) = 4·(9 + 2) = 44。…）"}
+{"id": "gold3-020", "orig_id": "t5-010", "gold_error_step": 4, "gold_error_type": "E6_跳步推导", "injected_content": "（删除原第 4 步：百位（p=100）：h=0，c=(100//100)%10=1，l=0；c=1<2 ⇒ 百位为 2 的 200~299 …）"}

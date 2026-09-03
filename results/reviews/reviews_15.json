@@ -1,0 +1,155 @@
+[
+  {
+    "id": "t5-041",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用勒让德公式 v_p(n!)=Σ⌊n/p^k⌋ 逐项计算下取整并在 p^k>n 后停止，求和无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-042",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用勒让德公式 v_p(n!)=Σ⌊n/p^k⌋ 逐项计算下取整并在 p^k>n 后停止，求和无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      },
+      {
+        "id": 6,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-043",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用勒让德公式 v_p(n!)=Σ⌊n/p^k⌋ 逐项计算下取整并在 p^k>n 后停止，求和无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-044",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用勒让德公式 v_p(n!)=Σ⌊n/p^k⌋ 逐项计算下取整并在 p^k>n 后停止，求和无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      },
+      {
+        "id": 6,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-045",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用勒让德公式 v_p(n!)=Σ⌊n/p^k⌋ 逐项计算下取整并在 p^k>n 后停止，求和无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  }
+]

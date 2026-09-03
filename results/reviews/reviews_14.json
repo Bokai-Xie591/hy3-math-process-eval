@@ -1,0 +1,478 @@
+[
+  {
+    "id": "t5-021",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先写出各盒条件下摸出红球的概率，全概率公式求 P(R)，再由贝叶斯公式求后验概率并约至最简分数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-022",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先写出各盒条件下摸出红球的概率，全概率公式求 P(R)，再由贝叶斯公式求后验概率并约至最简分数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-023",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先写出各盒条件下摸出红球的概率，全概率公式求 P(R)，再由贝叶斯公式求后验概率并约至最简分数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-024",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先写出各盒条件下摸出红球的概率，全概率公式求 P(R)，再由贝叶斯公式求后验概率并约至最简分数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-025",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先写出各盒条件下摸出红球的概率，全概率公式求 P(R)，再由贝叶斯公式求后验概率并约至最简分数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-026",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用费马小定理（或模的阶）降幂，指数对周期取模后计算余数，化简与计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-027",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用费马小定理（或模的阶）降幂，指数对周期取模后计算余数，化简与计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-028",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用费马小定理（或模的阶）降幂，指数对周期取模后计算余数，化简与计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-029",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用费马小定理（或模的阶）降幂，指数对周期取模后计算余数，化简与计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-030",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用费马小定理（或模的阶）降幂，指数对周期取模后计算余数，化简与计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-031",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由 2N=k(2a+k−1) 建立连续和表示与奇因子的一一对应，分解质因数数奇因子个数后减 1，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-032",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由 2N=k(2a+k−1) 建立连续和表示与奇因子的一一对应，分解质因数数奇因子个数后减 1，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-033",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由 2N=k(2a+k−1) 建立连续和表示与奇因子的一一对应，分解质因数数奇因子个数后减 1，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-034",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由 2N=k(2a+k−1) 建立连续和表示与奇因子的一一对应，分解质因数数奇因子个数后减 1，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-035",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由 2N=k(2a+k−1) 建立连续和表示与奇因子的一一对应，分解质因数数奇因子个数后减 1，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-036",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：开口向上的抛物线按顶点与区间位置判断单调性，最小值在顶点或端点处取得，代入计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-037",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：开口向上的抛物线按顶点与区间位置判断单调性，最小值在顶点或端点处取得，代入计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-038",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：开口向上的抛物线按顶点与区间位置判断单调性，最小值在顶点或端点处取得，代入计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-039",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：开口向上的抛物线按顶点与区间位置判断单调性，最小值在顶点或端点处取得，代入计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t5-040",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：开口向上的抛物线按顶点与区间位置判断单调性，最小值在顶点或端点处取得，代入计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  }
+]

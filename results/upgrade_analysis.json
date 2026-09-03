@@ -1,0 +1,63 @@
+{
+  "experiment": "E6 skip-step combined analysis (gold2 n=10 + gold3 n=20), step vs whole review, Hy3 vs GLM-5.2",
+  "boundary_rule": "幻影引用必抓：需多步推导得到的中间量/结论凭空出现时检出；可一步核验的压缩（题面数据一次变形、标准公式一次求值、枚举/验证覆盖、依据数据仍在文本中）被容忍",
+  "phantom_reference": {
+    "ids": [
+      "gold2-002",
+      "gold2-005",
+      "gold2-007",
+      "gold2-008",
+      "gold2-009",
+      "gold3-003",
+      "gold3-005",
+      "gold3-007",
+      "gold3-011",
+      "gold3-015",
+      "gold3-016",
+      "gold3-019"
+    ],
+    "detection": "12/12 = 100%",
+    "localization": "11/12（gold3-015 分歧：金标记删步位置，评审判首个受影响步且理由正确，属标注口径差异）",
+    "type_agreement": "10/12（gold2-005/007 判为 E4 而非 E6，单看判定成立）"
+  },
+  "compressible": {
+    "ids": [
+      "gold2-001",
+      "gold2-003",
+      "gold2-004",
+      "gold2-006",
+      "gold2-010",
+      "gold3-001",
+      "gold3-002",
+      "gold3-004",
+      "gold3-006",
+      "gold3-008",
+      "gold3-009",
+      "gold3-010",
+      "gold3-012",
+      "gold3-013",
+      "gold3-014",
+      "gold3-017",
+      "gold3-018",
+      "gold3-020"
+    ],
+    "detection": "0/18 容忍",
+    "note": "gold3-014/020（按位计数）与 gold3-008/009（验证/枚举覆盖）处于边界附近，归类的判定依据是剩余文本是否仍含可一步核验的来源线索"
+  },
+  "method_comparison": {
+    "design": "整篇一次性评审 vs 逐步行审，同一模型同一提示分类体系，60 条金标",
+    "result": "逐样本完全一致 60/60：检出、定位、类型判定无任何差异",
+    "conclusion": "对本题集与金标样本，评审协议粒度不影响 Hy3 表现；差异来自模型的逐步验证能力而非协议"
+  },
+  "cross_model": {
+    "model": "GLM-5.2",
+    "agreement_with_hy3": "60/60 = 100%（检出、定位逐样本一致）",
+    "conclusion": "跳步容忍边界跨模型稳定；自评偏好风险获独立模型缓解"
+  },
+  "real_set": {
+    "n": 20,
+    "answer_correct": "20/20（精确匹配）",
+    "process_flagged": 0,
+    "conclusion": "外部经典题集上答案与过程全部正确，外部效度成立；自然错误仍未出现"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "gold_samples": 30,
+  "detection_rate": 1.0,
+  "localization_accuracy_exact": 1.0,
+  "error_type_agreement": 0.9,
+  "type_mismatches": [
+    {
+      "id": "gold-002",
+      "gold_type": "E3_公式定理误用",
+      "pred_type": "E2_概念理解错误",
+      "pred_reason": "第 1 步称两根之和与积“由判别式定理”得出，而判别式定理的标准含义是由 Δ=b²−4c 判断根的存在性与个数，此处属定理概念混淆（应为韦达定理）。",
+      "injected": "由判别式定理，方程 x² + bx + c = 0 的两根满足 x₁ + x₂ = −b，x₁x₂ = c（依据：韦达定理）。"
+    },
+    {
+      "id": "gold-011",
+      "gold_type": "E4_计算错误",
+      "pred_type": "E3_公式定理误用",
+      "pred_reason": "第 1 步组合数公式写错：C(12,3) 应为 12!/(3!·9!)，分子误写为 9!，公式本身错误。",
+      "injected": "从 12 人中无顺序选出 3 人，用组合数 C(12,3) = 9!/(3!·9!)（依据：组合数定义，选法无先后之分）。"
+    },
+    {
+      "id": "gold-021",
+      "gold_type": "E4_计算错误",
+      "pred_type": "E1_题意误读",
+      "pred_reason": "第 1 步设 N = 104，与题目给定的 105 不符，所用条件数值与题面原文不一致。",
+      "injected": "设 N=104，k 个连续正整数（k≥2）之和：N = k(2a+k-1)/2，即 2N = k(2a+k-1)。"
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+[
+  {
+    "id": "gold-001",
+    "first_error_step": 3,
+    "error_type": "E7_幻觉编造",
+    "reason": "十位计数本身正确，但依据栏引用\"洛必达法则\"——与数位统计毫无关系的高等数学定理，属编造依据",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-002",
+    "first_error_step": 1,
+    "error_type": "E2_概念理解错误",
+    "reason": "步骤1 将韦达定理的根与系数关系（x₁+x₂=−b，x₁x₂=c）冠以\"判别式定理\"之名，两概念混淆；判别式定理是关于 Δ=b²−4ac 判定根的个数的结论",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-003",
+    "first_error_step": 1,
+    "error_type": "E4_计算错误",
+    "reason": "配方常数项 (−12/2)² 应为 36，步骤依据中写为 33；配方主结果 (x−6)²−56 虽正确，但该数值计算错误",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-004",
+    "first_error_step": 3,
+    "error_type": "E4_计算错误",
+    "reason": "41+8+1 = 50 而非 53（最终答案 50 与标准答案一致，但该步加法计算错误）",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-005",
+    "first_error_step": 2,
+    "error_type": "E7_幻觉编造",
+    "reason": "由对数式化指数式 x(x−3)=4 引用\"拉格朗日中值定理\"为依据，与该初等变形毫无关系，属编造依据",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-006",
+    "first_error_step": 1,
+    "error_type": "E7_幻觉编造",
+    "reason": "等比数列通项公式引用\"拉格朗日中值定理\"为依据，该微积分定理与数列公式无关，属编造依据",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-007",
+    "first_error_step": 1,
+    "error_type": "E7_幻觉编造",
+    "reason": "勒让德公式（阶乘末尾 0 计数）引用\"柯西积分公式\"为依据，属编造无关依据",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-008",
+    "first_error_step": 2,
+    "error_type": "E7_幻觉编造",
+    "reason": "由 1024=2¹⁰ 得 x=10 引用\"拉格朗日中值定理\"为依据，与该初等推理无关，属编造依据",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-009",
+    "first_error_step": 1,
+    "error_type": "E7_幻觉编造",
+    "reason": "钟面分针/时针角速度的推导引用\"柯西积分公式\"为依据，属编造无关依据",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-010",
+    "first_error_step": 2,
+    "error_type": "E4_计算错误",
+    "reason": "⌊173/625⌋ = 0 而非 1（173 < 625）；后续求和 41 虽正确，但该步整除计算错误",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-011",
+    "first_error_step": 1,
+    "error_type": "E3_公式定理误用",
+    "reason": "组合数公式写错：C(12,3) 应为 12!/(3!·9!)，步骤写成 9!/(3!·9!)，公式本身错误",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-012",
+    "first_error_step": 2,
+    "error_type": "E7_幻觉编造",
+    "reason": "代入 n=30 求值引用\"柯西积分公式\"为依据，属编造无关依据",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-013",
+    "first_error_step": 1,
+    "error_type": "E7_幻觉编造",
+    "reason": "\"7 折即原价 70%\"的常识性换算引用\"柯西积分公式\"为依据，属编造无关依据",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-014",
+    "first_error_step": 1,
+    "error_type": "E7_幻觉编造",
+    "reason": "鞋带公式（三角形面积坐标公式）引用\"洛必达法则\"为依据，属编造无关依据",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-015",
+    "first_error_step": 1,
+    "error_type": "E7_幻觉编造",
+    "reason": "\"7 折即原价 70%\"的换算引用\"拉格朗日中值定理\"为依据，属编造无关依据",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-016",
+    "first_error_step": 1,
+    "error_type": "E7_幻觉编造",
+    "reason": "自然数平方和公式引用\"斯特林公式\"为依据，属编造无关依据",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-017",
+    "first_error_step": 2,
+    "error_type": "E4_计算错误",
+    "reason": "2×(128−1) = 2×127 = 254 而非 252（最终答案 254 正确，但该步乘法计算错误）",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-018",
+    "first_error_step": 2,
+    "error_type": "E4_计算错误",
+    "reason": "2×5 + 9×2 = 10+18 = 28 而非 25（步骤3 又按 28 计算，该步加法错误）",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-019",
+    "first_error_step": 2,
+    "error_type": "E7_幻觉编造",
+    "reason": "6+8=14 的加法引用\"洛必达法则\"为依据，属编造无关依据",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-020",
+    "first_error_step": 1,
+    "error_type": "E7_幻觉编造",
+    "reason": "楼梯段数 5−1=4 的推导引用\"洛必达法则\"为依据，属编造无关依据",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-021",
+    "first_error_step": 1,
+    "error_type": "E1_题意误读",
+    "reason": "题面为把 105 表示为连续正整数之和，步骤1 设 N=104，与题面数据不符（后续步骤又按 105=3×5×7 分解）",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-022",
+    "first_error_step": 3,
+    "error_type": "E4_计算错误",
+    "reason": "D₄ = 3·(D₃+D₂) = 3·(2+1) = 9 而非 8（最终答案 9 正确，但该步计算错误）",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-023",
+    "first_error_step": 1,
+    "error_type": "E4_计算错误",
+    "reason": "15×14 = 15×(10+4) = 150+60 = 210 而非 207（步骤3 又按 210 相加，该步加法错误）",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-024",
+    "first_error_step": 1,
+    "error_type": "E7_幻觉编造",
+    "reason": "按数位分别计数的统计思路引用\"柯西积分公式\"为依据，属编造无关依据",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-025",
+    "first_error_step": 2,
+    "error_type": "E7_幻觉编造",
+    "reason": "5×5=25 的乘法引用\"柯西积分公式\"为依据，属编造无关依据",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-026",
+    "first_error_step": 2,
+    "error_type": "E7_幻觉编造",
+    "reason": "10×16=160 的乘法引用\"斯特林公式\"为依据，属编造无关依据",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-027",
+    "first_error_step": 3,
+    "error_type": "E4_计算错误",
+    "reason": "95 = 5×19 而非 3×19（3×19=57）；\"11 与 95 互质\"的结论虽成立，但质因数分解计算错误",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-028",
+    "first_error_step": 1,
+    "error_type": "E7_幻觉编造",
+    "reason": "分配律展开 8(x−5)=8x−40 引用\"拉格朗日中值定理\"为依据，属编造无关依据",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-029",
+    "first_error_step": 2,
+    "error_type": "E4_计算错误",
+    "reason": "21+6 = 27 而非 29（步骤3 又按 2×27=54 计算，该步加法错误）",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-030",
+    "first_error_step": 2,
+    "error_type": "E7_幻觉编造",
+    "reason": "175÷5=35 的除法引用\"柯西积分公式\"为依据，属编造无关依据",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,478 @@
+[
+  {
+    "id": "gold3-001",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：全概率 P(R)=1/2×5/9+1/2×6/11=109/198、贝叶斯 P(A|R)=990/1962=55/109 计算无误，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "gold3-002",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：数位统计公式正确，个位 203、十位 200、百位 200、千位 0（2026 首位为 2），合计 603，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "gold3-003",
+    "first_error_step": 4,
+    "error_type": "E6_跳步推导",
+    "reason": "步骤4 直接使用 1−2500/3600，但对立事件区域面积 2500（两个直角边为 50 的等腰直角三角形，2×50²/2）从未在前序步骤中计算，关键几何推导缺失",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold3-004",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：分配律展开得 6x−12=3x−9、移项得 3x−12=−9、解得 x=1，代入验证 6(−1)=−6=3−9 成立，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "gold3-005",
+    "first_error_step": 6,
+    "error_type": "E6_跳步推导",
+    "reason": "步骤6 直接使用 a₆=727 计算 a₇，但 a₆=3×241+4 从未在前序步骤中计算（步骤5 只算到 a₅），跳过了 a₆ 的推导",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      },
+      {
+        "id": 6,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold3-006",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：裂项分解、展开至 k=29、相邻项相消得 1−1/30=29/30，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "gold3-007",
+    "first_error_step": 2,
+    "error_type": "E6_跳步推导",
+    "reason": "步骤1 仅设 x=7k+5，步骤2 直接使用 35m+19，但合并模 5 条件（由 7k+5≡4 (mod 5) 解出 k≡2 (mod 5) 得 x=35m+19）的推导从未出现，中间结果与参数 m 均无来源",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold3-008",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：合并模 7 与模 5 得 x=35m+28，取最小正值 m=0 得 x=28，并验证 28 mod 3=1、mod 5=3、mod 7=0 全部满足（任何正解 ≡28 (mod 35) 故不小于 28），与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "gold3-009",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：连续整数和表示数定理（奇因子个数−1）应用正确，45 的奇因子 1,3,5,9,15,45 共 6 个得 6−1=5，且枚举的 5 种表示经逐项求和验证完整无误，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "gold3-010",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：裂项相消仅剩 1−1/20=19/20，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "gold3-011",
+    "first_error_step": 3,
+    "error_type": "E6_跳步推导",
+    "reason": "步骤3 直接使用 P(R)=23/44 作分母，但全概率计算 P(R)=1/2×6/11+1/2×1/2=3/11+1/4=23/44 从未在前序步骤中出现（步骤2 只给出条件概率）",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold3-012",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：勒让德公式 ⌊50/7⌋+⌊50/49⌋=7+1=8（50<7³=343 无更高项），与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "gold3-013",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：裂项分解、展开至 k=49、相消得 1−1/50=49/50，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "gold3-014",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：个位 50、十位 50、百位 0（无 800–899 ≤ 500），合计 100，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "gold3-015",
+    "first_error_step": 4,
+    "error_type": "E6_跳步推导",
+    "reason": "步骤4 直接写 S=5×64−62，但错位相减 2S−S=5×2⁶−(2+2²+…+2⁵) 的关键变形从未推导（步骤1–3 仅有 S、2S 与等比和 62，无任何式子建立 S 与它们的关系）",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold3-016",
+    "first_error_step": 3,
+    "error_type": "E6_跳步推导",
+    "reason": "步骤3 直接使用 D₄=9 计算 D₅，但 D₄=3×(D₃+D₂)=3×(2+1)=9 从未在前序步骤中计算（步骤2 只算到 D₃）",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold3-017",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：错位相减 S=2S−S=9×2¹⁰−(2+2²+…+2⁹) 推导完整，9×1024−1022=8194，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "gold3-018",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：模 13 余数序列逐项列出且与独立计算一致，(r₂₉,r₃₀)=(1,1) 验证周期 28，478=28×17+2 故 a₄₇₈≡a₂=1 (mod 13)，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "gold3-019",
+    "first_error_step": 4,
+    "error_type": "E6_跳步推导",
+    "reason": "步骤4 直接使用 D₅=44 计算 D₆，但 D₅=4×(D₄+D₃)=4×(9+2)=44 从未在前序步骤中计算（步骤3 只算到 D₄）",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold3-020",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：个位 10（2,12,…,92）、十位 10（20–29）、百位 0，合计 20，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "id": "t3-041",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由韦达定理得两根和与积，再用 (x₁+x₂)²−2x₁x₂ 求平方和，代入符号与计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-042",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由韦达定理得两根和与积，再用 (x₁+x₂)²−2x₁x₂ 求平方和，代入符号与计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-043",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由韦达定理得两根和与积，再用 (x₁+x₂)²−2x₁x₂ 求平方和，代入符号与计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-044",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由韦达定理得两根和与积，再用 (x₁+x₂)²−2x₁x₂ 求平方和，代入符号与计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-045",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由韦达定理得两根和与积，再用 (x₁+x₂)²−2x₁x₂ 求平方和，代入符号与计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-046",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由韦达定理得两根和与积，再用 (x₁+x₂)²−2x₁x₂ 求平方和，代入符号与计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-047",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由韦达定理得两根和与积，再用 (x₁+x₂)²−2x₁x₂ 求平方和，代入符号与计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-048",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由韦达定理得两根和与积，再用 (x₁+x₂)²−2x₁x₂ 求平方和，代入符号与计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-049",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用 a·b = gcd(a,b)·lcm(a,b) 得另一数 = gcd×lcm/已知数，计算无误、且回代满足 gcd 与 lcm，依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-050",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用 a·b = gcd(a,b)·lcm(a,b) 得另一数 = gcd×lcm/已知数，计算无误、且回代满足 gcd 与 lcm，依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-051",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用 a·b = gcd(a,b)·lcm(a,b) 得另一数 = gcd×lcm/已知数，计算无误、且回代满足 gcd 与 lcm，依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-052",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用 a·b = gcd(a,b)·lcm(a,b) 得另一数 = gcd×lcm/已知数，计算无误、且回代满足 gcd 与 lcm，依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-053",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用 a·b = gcd(a,b)·lcm(a,b) 得另一数 = gcd×lcm/已知数，计算无误、且回代满足 gcd 与 lcm，依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-054",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用 a·b = gcd(a,b)·lcm(a,b) 得另一数 = gcd×lcm/已知数，计算无误、且回代满足 gcd 与 lcm，依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-055",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：套用等比数列前 n 项和公式 S_n = a₁(rⁿ−1)/(r−1)，代入计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-056",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：套用等比数列前 n 项和公式 S_n = a₁(rⁿ−1)/(r−1)，代入计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-057",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：套用等比数列前 n 项和公式 S_n = a₁(rⁿ−1)/(r−1)，代入计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-058",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：套用等比数列前 n 项和公式 S_n = a₁(rⁿ−1)/(r−1)，代入计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-059",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：套用等比数列前 n 项和公式 S_n = a₁(rⁿ−1)/(r−1)，代入计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-060",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：套用等比数列前 n 项和公式 S_n = a₁(rⁿ−1)/(r−1)，代入计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  }
+]

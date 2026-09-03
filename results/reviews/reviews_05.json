@@ -1,0 +1,382 @@
+[
+  {
+    "id": "t2-021",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：配方为完全平方式并借平方非负性得最小值，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-022",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：配方为完全平方式并借平方非负性得最小值，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-023",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：配方为完全平方式并借平方非负性得最小值，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-024",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：配方为完全平方式并借平方非负性得最小值，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-025",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：配方为完全平方式并借平方非负性得最小值，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-026",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：配方为完全平方式并借平方非负性得最小值，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-027",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：配方为完全平方式并借平方非负性得最小值，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-028",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：配方为完全平方式并借平方非负性得最小值，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-029",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：配方为完全平方式并借平方非负性得最小值，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-030",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：配方为完全平方式并借平方非负性得最小值，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-031",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先用整除计数得倍数个数，再按古典概型写出分数并约至最简，计算与约分无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-032",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先用整除计数得倍数个数，再按古典概型写出分数并约至最简，计算与约分无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-033",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先用整除计数得倍数个数，再按古典概型写出分数并约至最简，计算与约分无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-034",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先用整除计数得倍数个数，再按古典概型写出分数并约至最简，计算与约分无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-035",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先用整除计数得倍数个数，再按古典概型写出分数并约至最简，计算与约分无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-036",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先用整除计数得倍数个数，再按古典概型写出分数并约至最简，计算与约分无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-037",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先用整除计数得倍数个数，再按古典概型写出分数并约至最简，计算与约分无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-038",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先用整除计数得倍数个数，再按古典概型写出分数并约至最简，计算与约分无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-039",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先用整除计数得倍数个数，再按古典概型写出分数并约至最简，计算与约分无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-040",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先用整除计数得倍数个数，再按古典概型写出分数并约至最简，计算与约分无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  }
+]

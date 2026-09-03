@@ -1,0 +1,212 @@
+[
+  {
+    "id": "gold2-001",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：分配律展开、移项、同除得 x=10，与标准答案一致",
+    "process_correct": true
+  },
+  {
+    "id": "gold2-002",
+    "first_error_step": 3,
+    "error_type": "E6_跳步推导",
+    "reason": "步骤2 仅得 x(x−4)=32，未展开为二次方程求解；步骤3 直接引用 x=8 和 x=−4 两个解，该解从未在推导中出现",
+    "process_correct": false
+  },
+  {
+    "id": "gold2-003",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：两盒组成相同 P(R|A)=P(R|B)=5/8，由对称性 P(A|R)=1/2，与标准答案一致",
+    "process_correct": true
+  },
+  {
+    "id": "gold2-004",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：容斥原理设置正确，|A|=52、|B|=31、|A∩B|=⌊158/15⌋=10，合计 73，与标准答案一致",
+    "process_correct": true
+  },
+  {
+    "id": "gold2-005",
+    "first_error_step": 3,
+    "error_type": "E4_计算错误",
+    "reason": "步骤2 导出 x=35m+17（仅满足 mod 7 和 mod 5）；步骤3 称 n=0 得 x=87，但 m=0 时 x=17≠87，且合并 mod 3 条件后的通式从未给出，参数取值与公式矛盾",
+    "process_correct": false
+  },
+  {
+    "id": "gold2-006",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：合并对数、化为二次方程后用求根公式显式求解得 x=4 或 x=−1，定义域 x>3 舍去 x=−1，与标准答案一致",
+    "process_correct": true
+  },
+  {
+    "id": "gold2-007",
+    "first_error_step": 3,
+    "error_type": "E4_计算错误",
+    "reason": "步骤2 导出 x=35m+24（仅满足 mod 7 和 mod 5）；步骤3 称 n=0 得 x=59，但 m=0 时 x=24≠59，且合并 mod 3 条件后的通式从未给出，参数取值与公式矛盾",
+    "process_correct": false
+  },
+  {
+    "id": "gold2-008",
+    "first_error_step": 5,
+    "error_type": "E6_跳步推导",
+    "reason": "步骤4 计算到 a₄=148；步骤5 直接计算 a₆=3×445+1，但 a₅=3×148+1=445 从未在推导中计算，跳过了 a₅",
+    "process_correct": false
+  },
+  {
+    "id": "gold2-009",
+    "first_error_step": 6,
+    "error_type": "E6_跳步推导",
+    "reason": "步骤5 计算到 D₆=265；步骤6 直接计算 D₈=7×(1854+265)，但 D₇=6×(265+44)=1854 从未在推导中计算，跳过了 D₇",
+    "process_correct": false
+  },
+  {
+    "id": "gold2-010",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：分配律展开、移项、同除得 x=13，与标准答案一致",
+    "process_correct": true
+  },
+  {
+    "id": "gold3-001",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：全概率 P(R)=1/2×5/9+1/2×6/11=109/198、贝叶斯 P(A|R)=990/1962=55/109 计算无误，与标准答案一致",
+    "process_correct": true
+  },
+  {
+    "id": "gold3-002",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：数位统计公式正确，个位 203、十位 200、百位 200、千位 0（2026 首位为 2），合计 603，与标准答案一致",
+    "process_correct": true
+  },
+  {
+    "id": "gold3-003",
+    "first_error_step": 4,
+    "error_type": "E6_跳步推导",
+    "reason": "步骤4 直接使用 1−2500/3600，但对立事件区域面积 2500（两个直角边为 50 的等腰直角三角形，2×50²/2）从未在推导中计算，关键几何推导缺失",
+    "process_correct": false
+  },
+  {
+    "id": "gold3-004",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：分配律展开得 6x−12=3x−9、移项得 3x−12=−9、解得 x=1，代入验证成立，与标准答案一致",
+    "process_correct": true
+  },
+  {
+    "id": "gold3-005",
+    "first_error_step": 6,
+    "error_type": "E6_跳步推导",
+    "reason": "步骤5 计算到 a₅=241；步骤6 直接计算 a₇=3×727+4，但 a₆=3×241+4=727 从未在推导中计算，跳过了 a₆",
+    "process_correct": false
+  },
+  {
+    "id": "gold3-006",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：裂项分解、展开至 k=29、相邻项相消得 1−1/30=29/30，与标准答案一致",
+    "process_correct": true
+  },
+  {
+    "id": "gold3-007",
+    "first_error_step": 2,
+    "error_type": "E6_跳步推导",
+    "reason": "步骤1 仅设 x=7k+5，步骤2 直接使用 35m+19，但合并模 5 条件（由 7k+5≡4 (mod 5) 解出 k）的推导从未出现，中间结果与参数 m 均无来源",
+    "process_correct": false
+  },
+  {
+    "id": "gold3-008",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：由 x≡0 (mod 7) 设 x=7k，合并模 5 解出 k≡4 (mod 5) 得 x=35m+28，取最小正值并验证三个同余条件均满足，与标准答案一致",
+    "process_correct": true
+  },
+  {
+    "id": "gold3-009",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "整体推理正确：连续正整数和表示数定理（奇因子个数−1）应用正确，且枚举的 5 种表示经逐项求和验证完整无误，与标准答案一致",
+    "process_correct": true
+  },
+  {
+    "id": "gold3-010",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：裂项相消仅剩 1−1/20=19/20，与标准答案一致",
+    "process_correct": true
+  },
+  {
+    "id": "gold3-011",
+    "first_error_step": 3,
+    "error_type": "E6_跳步推导",
+    "reason": "步骤3 直接使用 P(R)=23/44 作分母，但全概率计算 P(R)=1/2×6/11+1/2×1/2=3/11+1/4=23/44 从未在推导中出现（步骤2 只给出条件概率）",
+    "process_correct": false
+  },
+  {
+    "id": "gold3-012",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：勒让德公式 ⌊50/7⌋+⌊50/49⌋=7+1=8（50<7³ 无更高项），与标准答案一致",
+    "process_correct": true
+  },
+  {
+    "id": "gold3-013",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：裂项分解、展开至 k=49、相消得 1−1/50=49/50，与标准答案一致",
+    "process_correct": true
+  },
+  {
+    "id": "gold3-014",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：个位 50、十位 50、百位 0（无 800–899 ≤ 500），合计 100，与标准答案一致",
+    "process_correct": true
+  },
+  {
+    "id": "gold3-015",
+    "first_error_step": 4,
+    "error_type": "E6_跳步推导",
+    "reason": "步骤4 直接写 S=5×64−62，但错位相减 2S−S=5×2⁶−(2+2²+…+2⁵) 的关键变形从未推导（步骤1–3 仅有 S、2S 与等比和 62，无任何式子建立 S 与它们的关系）",
+    "process_correct": false
+  },
+  {
+    "id": "gold3-016",
+    "first_error_step": 3,
+    "error_type": "E6_跳步推导",
+    "reason": "步骤2 只计算到 D₃=2；步骤3 直接使用 D₄=9 计算 D₅，但 D₄=3×(D₃+D₂)=3×(2+1)=9 从未在推导中计算",
+    "process_correct": false
+  },
+  {
+    "id": "gold3-017",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：错位相减 S=2S−S=9×2¹⁰−(2+2²+…+2⁹) 推导完整，9×1024−1022=8194，与标准答案一致",
+    "process_correct": true
+  },
+  {
+    "id": "gold3-018",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：模 13 余数序列逐项列出且与独立计算一致，(r₂₉,r₃₀)=(1,1) 验证周期 28，478=28×17+2 故 a₄₇₈≡a₂=1 (mod 13)，与标准答案一致",
+    "process_correct": true
+  },
+  {
+    "id": "gold3-019",
+    "first_error_step": 4,
+    "error_type": "E6_跳步推导",
+    "reason": "步骤3 只计算到 D₄=9；步骤4 直接使用 D₅=44 计算 D₆，但 D₅=4×(D₄+D₃)=4×(9+2)=44 从未在推导中计算",
+    "process_correct": false
+  },
+  {
+    "id": "gold3-020",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：个位 10（2,12,…,92）、十位 10（20–29）、百位 0，合计 20，与标准答案一致",
+    "process_correct": true
+  }
+]

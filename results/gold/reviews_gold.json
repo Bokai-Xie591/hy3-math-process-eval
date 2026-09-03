@@ -1,0 +1,468 @@
+[
+  {
+    "id": "gold-001",
+    "first_error_step": 3,
+    "error_type": "E7_幻觉编造",
+    "reason": "第 3 步十位计数本身正确，但依据栏写“洛必达法则”，与该步数位统计毫无关系，属引入题目中不存在的“定理”作为依据。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-002",
+    "first_error_step": 1,
+    "error_type": "E2_概念理解错误",
+    "reason": "第 1 步称两根之和与积“由判别式定理”得出，而判别式定理的标准含义是由 Δ=b²−4c 判断根的存在性与个数，此处属定理概念混淆（应为韦达定理）。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-003",
+    "first_error_step": 1,
+    "error_type": "E4_计算错误",
+    "reason": "第 1 步配方声明配常数项 (−12/2)² = 33，实际 (−12/2)² = 36，该算术陈述错误。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-004",
+    "first_error_step": 3,
+    "error_type": "E4_计算错误",
+    "reason": "第 3 步求和 41 + 8 + 1 = 50，误写为 53，计算错误。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-005",
+    "first_error_step": 2,
+    "error_type": "E7_幻觉编造",
+    "reason": "第 2 步化指数式的依据应为对数定义，却写“拉格朗日中值定理”，与该步无关，属引入题目中不存在的“定理”作为依据。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-006",
+    "first_error_step": 1,
+    "error_type": "E7_幻觉编造",
+    "reason": "第 1 步等比数列通项公式的依据写“拉格朗日中值定理”，与该步无关，属引入题目中不存在的“定理”作为依据。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-007",
+    "first_error_step": 1,
+    "error_type": "E7_幻觉编造",
+    "reason": "第 1 步勒让德公式的依据写“柯西积分公式”，与该步无关，属引入题目中不存在的“定理”作为依据。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-008",
+    "first_error_step": 2,
+    "error_type": "E7_幻觉编造",
+    "reason": "第 2 步由 1024 = 2¹⁰ 得 x = 10，依据应为同底幂比较指数，却写“拉格朗日中值定理”，与该步无关，属引入题目中不存在的“定理”作为依据。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-009",
+    "first_error_step": 1,
+    "error_type": "E7_幻觉编造",
+    "reason": "第 1 步钟面角度划分的依据写“柯西积分公式”，与该步无关，属引入题目中不存在的“定理”作为依据。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-010",
+    "first_error_step": 2,
+    "error_type": "E4_计算错误",
+    "reason": "第 2 步 ⌊173/625⌋ 应为 0（173 < 625），误写为 1，计算错误。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-011",
+    "first_error_step": 1,
+    "error_type": "E3_公式定理误用",
+    "reason": "第 1 步组合数公式写错：C(12,3) 应为 12!/(3!·9!)，分子误写为 9!，公式本身错误。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-012",
+    "first_error_step": 2,
+    "error_type": "E7_幻觉编造",
+    "reason": "第 2 步代入计算的依据写“柯西积分公式”，与该步无关，属引入题目中不存在的“定理”作为依据。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-013",
+    "first_error_step": 1,
+    "error_type": "E7_幻觉编造",
+    "reason": "第 1 步“7 折即按原价 70% 出售”的依据写“柯西积分公式”，与该步无关，属引入题目中不存在的“定理”作为依据。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-014",
+    "first_error_step": 1,
+    "error_type": "E7_幻觉编造",
+    "reason": "第 1 步鞋带公式的依据写“洛必达法则”，与该步无关，属引入题目中不存在的“定理”作为依据。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-015",
+    "first_error_step": 1,
+    "error_type": "E7_幻觉编造",
+    "reason": "第 1 步“7 折即按原价 70% 出售”的依据写“拉格朗日中值定理”，与该步无关，属引入题目中不存在的“定理”作为依据。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-016",
+    "first_error_step": 1,
+    "error_type": "E7_幻觉编造",
+    "reason": "第 1 步自然数平方和公式的依据写“斯特林公式”，与该步无关，属引入题目中不存在的“定理”作为依据。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-017",
+    "first_error_step": 2,
+    "error_type": "E4_计算错误",
+    "reason": "第 2 步 2 × 127 = 254，误写为 252，计算错误。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-018",
+    "first_error_step": 2,
+    "error_type": "E4_计算错误",
+    "reason": "第 2 步 2×5 + 9×2 = 10 + 18 = 28，误写为 25，计算错误。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-019",
+    "first_error_step": 2,
+    "error_type": "E7_幻觉编造",
+    "reason": "第 2 步加法 6 + 8 = 14 的依据写“洛必达法则”，与该步无关，属引入题目中不存在的“定理”作为依据。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-020",
+    "first_error_step": 1,
+    "error_type": "E7_幻觉编造",
+    "reason": "第 1 步楼梯段数 5 − 1 = 4 的依据写“洛必达法则”，与该步无关，属引入题目中不存在的“定理”作为依据。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-021",
+    "first_error_step": 1,
+    "error_type": "E1_题意误读",
+    "reason": "第 1 步设 N = 104，与题目给定的 105 不符，所用条件数值与题面原文不一致。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-022",
+    "first_error_step": 3,
+    "error_type": "E4_计算错误",
+    "reason": "第 3 步 D₄ = 3·(D₃ + D₂) = 3·(2+1) = 9，误写为 8，计算错误。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-023",
+    "first_error_step": 1,
+    "error_type": "E4_计算错误",
+    "reason": "第 1 步 15 × (10+4) = 150 + 60 = 210，误写为 207，计算错误。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-024",
+    "first_error_step": 1,
+    "error_type": "E7_幻觉编造",
+    "reason": "第 1 步数位统计法的依据写“柯西积分公式”，与该步无关，属引入题目中不存在的“定理”作为依据。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-025",
+    "first_error_step": 2,
+    "error_type": "E7_幻觉编造",
+    "reason": "第 2 步乘法 5 × 5 = 25 的依据写“柯西积分公式”，与该步无关，属引入题目中不存在的“定理”作为依据。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-026",
+    "first_error_step": 2,
+    "error_type": "E7_幻觉编造",
+    "reason": "第 2 步乘法 10 × 16 = 160 的依据写“斯特林公式”，与该步无关，属引入题目中不存在的“定理”作为依据。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-027",
+    "first_error_step": 3,
+    "error_type": "E4_计算错误",
+    "reason": "第 3 步因数分解 95 = 5×19，误写为 95 = 3×19，分解错误。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-028",
+    "first_error_step": 1,
+    "error_type": "E7_幻觉编造",
+    "reason": "第 1 步分配律展开 8(x−5) = 8x − 40 的依据写“拉格朗日中值定理”，与该步无关，属引入题目中不存在的“定理”作为依据。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-029",
+    "first_error_step": 2,
+    "error_type": "E4_计算错误",
+    "reason": "第 2 步 21 + 6 = 27，误写为 29，计算错误。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold-030",
+    "first_error_step": 2,
+    "error_type": "E7_幻觉编造",
+    "reason": "第 2 步除法 175 ÷ 5 = 35 的依据写“柯西积分公式”，与该步无关，属引入题目中不存在的“定理”作为依据。",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": false
+      }
+    ]
+  }
+]

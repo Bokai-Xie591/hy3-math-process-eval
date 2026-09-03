@@ -1,0 +1,27 @@
+[
+  {
+    "id": "p001",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "三步推导均成立，运算顺序与计算无误，最终答案与标准答案 1008 一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      { "id": 1, "valid": true },
+      { "id": 2, "valid": true },
+      { "id": 3, "valid": true }
+    ]
+  },
+  {
+    "id": "p002",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "分配律展开、移项、求解与代入检验均成立，最终答案 x=13 与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      { "id": 1, "valid": true },
+      { "id": 2, "valid": true },
+      { "id": 3, "valid": true },
+      { "id": 4, "valid": true }
+    ]
+  }
+]

@@ -1,0 +1,406 @@
+[
+  {
+    "id": "t3-001",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：套用自然数平方和公式 n(n+1)(2n+1)/6，代入并约分计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-002",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：套用自然数平方和公式 n(n+1)(2n+1)/6，代入并约分计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-003",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：套用自然数平方和公式 n(n+1)(2n+1)/6，代入并约分计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-004",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：套用自然数平方和公式 n(n+1)(2n+1)/6，代入并约分计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-005",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：套用自然数平方和公式 n(n+1)(2n+1)/6，代入并约分计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-006",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：套用自然数平方和公式 n(n+1)(2n+1)/6，代入并约分计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-007",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：套用自然数平方和公式 n(n+1)(2n+1)/6，代入并约分计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-008",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：套用自然数平方和公式 n(n+1)(2n+1)/6，代入并约分计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-009",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：利用底数正整数次幂个位循环规律（周期 4 或 2），由指数对周期取余定位循环位得到个位数字，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-010",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：利用底数正整数次幂个位循环规律（周期 4 或 2），由指数对周期取余定位循环位得到个位数字，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-011",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：利用底数正整数次幂个位循环规律（周期 4 或 2），由指数对周期取余定位循环位得到个位数字，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-012",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：利用底数正整数次幂个位循环规律（周期 4 或 2），由指数对周期取余定位循环位得到个位数字，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-013",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：利用底数正整数次幂个位循环规律（周期 4 或 2），由指数对周期取余定位循环位得到个位数字，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-014",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：利用底数正整数次幂个位循环规律（周期 4 或 2），由指数对周期取余定位循环位得到个位数字，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-015",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：利用底数正整数次幂个位循环规律（周期 4 或 2），由指数对周期取余定位循环位得到个位数字，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-016",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：利用底数正整数次幂个位循环规律（周期 4 或 2），由指数对周期取余定位循环位得到个位数字，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-017",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：正整数解个数用隔板法 C(n−1,k−1)，代入组合数计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-018",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：正整数解个数用隔板法 C(n−1,k−1)，代入组合数计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-019",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：正整数解个数用隔板法 C(n−1,k−1)，代入组合数计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t3-020",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：正整数解个数用隔板法 C(n−1,k−1)，代入组合数计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  }
+]

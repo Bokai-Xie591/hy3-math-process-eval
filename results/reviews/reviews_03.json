@@ -1,0 +1,350 @@
+[
+  {
+    "id": "t1-041",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：几何公式（周长 2×(长+宽) 或 面积 长×宽）应用无误、计算正确；最终答案数值与标准答案一致（单位符合题设提问）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-042",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：几何公式（周长 2×(长+宽) 或 面积 长×宽）应用无误、计算正确；最终答案数值与标准答案一致（单位符合题设提问）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-043",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：几何公式（周长 2×(长+宽) 或 面积 长×宽）应用无误、计算正确；最终答案数值与标准答案一致（单位符合题设提问）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-044",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：几何公式（周长 2×(长+宽) 或 面积 长×宽）应用无误、计算正确；最终答案数值与标准答案一致（单位符合题设提问）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-045",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：几何公式（周长 2×(长+宽) 或 面积 长×宽）应用无误、计算正确；最终答案数值与标准答案一致（单位符合题设提问）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-046",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：几何公式（周长 2×(长+宽) 或 面积 长×宽）应用无误、计算正确；最终答案数值与标准答案一致（单位符合题设提问）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-047",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：几何公式（周长 2×(长+宽) 或 面积 长×宽）应用无误、计算正确；最终答案数值与标准答案一致（单位符合题设提问）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-048",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：几何公式（周长 2×(长+宽) 或 面积 长×宽）应用无误、计算正确；最终答案数值与标准答案一致（单位符合题设提问）。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-049",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先求和再除以数据个数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-050",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先求和再除以数据个数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-051",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先求和再除以数据个数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-052",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先求和再除以数据个数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-053",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先求和再除以数据个数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-054",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先求和再除以数据个数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-055",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先求和再除以数据个数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-056",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先求和再除以数据个数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-057",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先求和再除以数据个数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-058",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先求和再除以数据个数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-059",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先求和再除以数据个数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t1-060",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：先求和再除以数据个数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  }
+]

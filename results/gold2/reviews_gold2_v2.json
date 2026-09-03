@@ -1,0 +1,236 @@
+[
+  {
+    "id": "gold2-001",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：展开分配律、移项、同除得 x=10，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "gold2-002",
+    "first_error_step": 3,
+    "error_type": "E6_跳步推导",
+    "reason": "step2 仅得 x(x-4)=32，未展开为一元二次方程并求解；step3 直接引用 x=8 和 x=-4 两个解，但该解从未在前序步骤中推导出现",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold2-003",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：贝叶斯公式应用正确，两盒对称 P(R)=5/8，P(A|R)=1/2，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "gold2-004",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：容斥原理设置正确，|A|=52, |B|=31, |A∩B|=⌊158/15⌋=10, 合计 52+31-10=73，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "gold2-005",
+    "first_error_step": 3,
+    "error_type": "E4_计算错误",
+    "reason": "step2 导出 x=35m+17（仅满足 mod 7 和 mod 5）；step3 称 n=0 得 x=87，但 m=0 时 x=17≠87，且未给出合并 mod 3 条件后的新通式 x=105j+87，参数取值与公式不一致",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold2-006",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：合并对数、指数化后用求根公式显式求解 x²-3x-4=0 得 x=4 或 x=-1，定义域检验 x>3 舍去 x=-1，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "gold2-007",
+    "first_error_step": 3,
+    "error_type": "E4_计算错误",
+    "reason": "step2 导出 x=35m+24（仅满足 mod 7 和 mod 5）；step3 称 n=0 得 x=59，但 m=0 时 x=24≠59，且未给出合并 mod 3 条件后的新通式 x=105j+59，参数取值与公式不一致",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold2-008",
+    "first_error_step": 5,
+    "error_type": "E6_跳步推导",
+    "reason": "step4 计算到 a4=148；step5 直接计算 a6=3×445+1=1336，但 a5=445 从未在前序步骤中计算，跳过了 a5 的推导",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold2-009",
+    "first_error_step": 6,
+    "error_type": "E6_跳步推导",
+    "reason": "step5 计算到 D6=265；step6 直接计算 D8=7×(1854+265)=14833，但 D7=1854 从未在前序步骤中计算，跳过了 D7 的推导",
+    "process_correct": false,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      },
+      {
+        "id": 6,
+        "valid": false
+      }
+    ]
+  },
+  {
+    "id": "gold2-010",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：展开分配律、移项、同除得 x=13，与标准答案一致",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  }
+]

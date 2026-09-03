@@ -1,0 +1,586 @@
+[
+  {
+    "id": "t6-001",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：错位相减（乘 2 后相消）将 Σk·2^k 化为末项 2^{n+1}·n 与等比求和之差，代数与计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      },
+      {
+        "id": 6,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t6-002",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：错位相减法合并相邻同幂项，外加等比前 n 项和，代入与算术无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t6-003",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：错位相减 + 等比求和两项合并，化简与乘算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t6-004",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：错位相减 + 等比求和，代入与算术无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t6-005",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：设独立均匀到达时刻（x,y），见面条件 |x−y|≤w 对应几何概型中正方形面积为 3600，不见面区域为两等腰直角三角形面积为 (60−w)²，互补得见面概率 (3600−(60−w)²)/3600 并约至最简分数，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      },
+      {
+        "id": 6,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t6-006",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：同 t6-005 几何概型结构，等 w=30，约分依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      },
+      {
+        "id": 6,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t6-007",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：同 t6-005 几何概型结构，等 w=10，约分依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      },
+      {
+        "id": 6,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t6-008",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：同 t6-005 几何概型结构，等 w=20，约分依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      },
+      {
+        "id": 6,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t6-009",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：|A|=3 ⇔ A=3 或 A=−3 分两个二次方程，判别式均大于 0 且两方程差为常数不重合，解数为 2+2，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      },
+      {
+        "id": 6,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t6-010",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：|A|=3 ⇔ A=3 或 A=−3 分两个二次方程，判别式均大于 0 且两方程差为常数不重合，解数为 2+2，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t6-011",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：|A|=2 ⇔ A=2 或 A=−2 分两个二次方程，判别式均大于 0 且两方程差为常数不重合，解数为 2+2，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t6-012",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：配方得 (x+1)²+4≥4，使左端恒不小于 4 而右端为 1，依不等式无实数解，依据真实、推理无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t6-013",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：用斐波那契余数序列同余递推 r_n=r_{n−1}+r_{n−2}(mod 7)，列出前 16 项确认 (r_{17},r_{18})=(1,1) ⇒ 周期 16，下标 231=14·16+7 化归到 a_7=13 即余 6，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      },
+      {
+        "id": 6,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t6-014",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：同 Pisano 周期法列表前 10 项并确认 (r_{11},r_{12})=(1,1) ⇒ 周期 10，158=15·10+8 化归到 a_8=21 即余 10，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      },
+      {
+        "id": 6,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t6-015",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：同 Pisano 周期法列表前 28 项并确认 (r_{29},r_{30})=(1,1) ⇒ 周期 28，478=17·28+2 化归到 a_2=1 即余 1，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      },
+      {
+        "id": 6,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t6-016",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：同 Pisano 周期法（mod 7 周期 16），327=20·16+7 化归到 a_7=13 即余 6，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      },
+      {
+        "id": 6,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t6-017",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：令 yᵢ=xᵢ−2≥0 后化为 y₁+y₂+y₃+y₄=15 的非负整数解，由隔板法计 C(15+3,3)，代数与组合计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t6-018",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：令 yᵢ=xᵢ−2≥0 后化为 y₁+y₂+y₃+y₄=9 的非负整数解，由隔板法计 C(9+3,3)，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t6-019",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：令 yᵢ=xᵢ−2≥0 后化为 y₁+y₂+y₃+y₄=10 的非负整数解，由隔板法计 C(10+3,3)，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t6-020",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：令 yᵢ=xᵢ−2≥0 后化为 y₁+y₂+y₃+y₄=12 的非负整数解，由隔板法计 C(12+3,3)，依据真实、计算无误；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  }
+]

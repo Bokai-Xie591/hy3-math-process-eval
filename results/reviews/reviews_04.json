@@ -1,0 +1,382 @@
+[
+  {
+    "id": "t2-001",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：等差数列求和公式 S_n=n/2·(2a_1+(n−1)d) 应用无误、代入与计算正确；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-002",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：等差数列求和公式 S_n=n/2·(2a_1+(n−1)d) 应用无误、代入与计算正确；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-003",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：等差数列求和公式 S_n=n/2·(2a_1+(n−1)d) 应用无误、代入与计算正确；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-004",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：等差数列求和公式 S_n=n/2·(2a_1+(n−1)d) 应用无误、代入与计算正确；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-005",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：等差数列求和公式 S_n=n/2·(2a_1+(n−1)d) 应用无误、代入与计算正确；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-006",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：等差数列求和公式 S_n=n/2·(2a_1+(n−1)d) 应用无误、代入与计算正确；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-007",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：等差数列求和公式 S_n=n/2·(2a_1+(n−1)d) 应用无误、代入与计算正确；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-008",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：等差数列求和公式 S_n=n/2·(2a_1+(n−1)d) 应用无误、代入与计算正确；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-009",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：等差数列求和公式 S_n=n/2·(2a_1+(n−1)d) 应用无误、代入与计算正确；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-010",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：等差数列求和公式 S_n=n/2·(2a_1+(n−1)d) 应用无误、代入与计算正确；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-011",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：等比数列通项 a_n=a_1·r^(n−1) 应用无误、乘方与乘法计算正确；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-012",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：等比数列通项 a_n=a_1·r^(n−1) 应用无误、乘方与乘法计算正确；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-013",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：等比数列通项 a_n=a_1·r^(n−1) 应用无误、乘方与乘法计算正确；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-014",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：等比数列通项 a_n=a_1·r^(n−1) 应用无误、乘方与乘法计算正确；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-015",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：等比数列通项 a_n=a_1·r^(n−1) 应用无误、乘方与乘法计算正确；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-016",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：等比数列通项 a_n=a_1·r^(n−1) 应用无误、乘方与乘法计算正确；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-017",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：等比数列通项 a_n=a_1·r^(n−1) 应用无误、乘方与乘法计算正确；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-018",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：等比数列通项 a_n=a_1·r^(n−1) 应用无误、乘方与乘法计算正确；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-019",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：等比数列通项 a_n=a_1·r^(n−1) 应用无误、乘方与乘法计算正确；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t2-020",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：等比数列通项 a_n=a_1·r^(n−1) 应用无误、乘方与乘法计算正确；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      }
+    ]
+  }
+]

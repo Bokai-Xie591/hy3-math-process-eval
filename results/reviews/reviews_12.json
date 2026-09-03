@@ -1,0 +1,554 @@
+[
+  {
+    "id": "t4-021",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：同余设元后逐次合并模 7、5、3 条件（含乘逆元化简），取最小正整数解并回代验证各余数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t4-022",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：同余设元后逐次合并模 7、5、3 条件（含乘逆元化简），取最小正整数解并回代验证各余数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t4-023",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：同余设元后逐次合并模 7、5、3 条件（含乘逆元化简），取最小正整数解并回代验证各余数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t4-024",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：同余设元后逐次合并模 7、5、3 条件（含乘逆元化简），取最小正整数解并回代验证各余数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t4-025",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：同余设元后逐次合并模 7、5、3 条件（含乘逆元化简），取最小正整数解并回代验证各余数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t4-026",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：按递推式逐项计算至目标项，每步代入前一项结果，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t4-027",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：按递推式逐项计算至目标项，每步代入前一项结果，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      },
+      {
+        "id": 6,
+        "valid": true
+      },
+      {
+        "id": 7,
+        "valid": true
+      },
+      {
+        "id": 8,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t4-028",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：按递推式逐项计算至目标项，每步代入前一项结果，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      },
+      {
+        "id": 6,
+        "valid": true
+      },
+      {
+        "id": 7,
+        "valid": true
+      },
+      {
+        "id": 8,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t4-029",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：按递推式逐项计算至目标项，每步代入前一项结果，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      },
+      {
+        "id": 6,
+        "valid": true
+      },
+      {
+        "id": 7,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t4-030",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：按递推式逐项计算至目标项，每步代入前一项结果，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      },
+      {
+        "id": 5,
+        "valid": true
+      },
+      {
+        "id": 6,
+        "valid": true
+      },
+      {
+        "id": 7,
+        "valid": true
+      },
+      {
+        "id": 8,
+        "valid": true
+      },
+      {
+        "id": 9,
+        "valid": true
+      },
+      {
+        "id": 10,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t4-031",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：合并对数后化为指数式，解一元二次方程并用真数大于 0 的定义域舍去负根，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t4-032",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：合并对数后化为指数式，解一元二次方程并用真数大于 0 的定义域舍去负根，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t4-033",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：合并对数后化为指数式，解一元二次方程并用真数大于 0 的定义域舍去负根，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t4-034",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：合并对数后化为指数式，解一元二次方程并用真数大于 0 的定义域舍去负根，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t4-035",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：合并对数后化为指数式，解一元二次方程并用真数大于 0 的定义域舍去负根，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      },
+      {
+        "id": 4,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t4-036",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：总分=各组人数×平均分求和，除以总人数得加权平均并约至最简分数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t4-037",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：总分=各组人数×平均分求和，除以总人数得加权平均并约至最简分数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t4-038",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：总分=各组人数×平均分求和，除以总人数得加权平均并约至最简分数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t4-039",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：总分=各组人数×平均分求和，除以总人数得加权平均并约至最简分数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "id": "t4-040",
+    "first_error_step": null,
+    "error_type": null,
+    "reason": "逐步推导正确：总分=各组人数×平均分求和，除以总人数得加权平均并约至最简分数，计算无误、依据真实；最终答案与标准答案一致。",
+    "process_correct": true,
+    "step_verdicts": [
+      {
+        "id": 1,
+        "valid": true
+      },
+      {
+        "id": 2,
+        "valid": true
+      },
+      {
+        "id": 3,
+        "valid": true
+      }
+    ]
+  }
+]

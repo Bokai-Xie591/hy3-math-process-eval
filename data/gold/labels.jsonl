@@ -1,0 +1,30 @@
+{"id": "gold-001", "orig_id": "t5-008", "gold_error_step": 3, "gold_error_type": "E7_幻觉编造", "injected_content": "十位（p=10）：h=500//100=5，c=(500//10)%10=0，l=500%10=0；c=0<8 ⇒ 5×10=50。（依据：洛必达法则）"}
+{"id": "gold-002", "orig_id": "t3-047", "gold_error_step": 1, "gold_error_type": "E3_公式定理误用", "injected_content": "由判别式定理，方程 x² + bx + c = 0 的两根满足 x₁ + x₂ = −b，x₁x₂ = c（依据：韦达定理）。"}
+{"id": "gold-003", "orig_id": "t2-024", "gold_error_step": 1, "gold_error_type": "E4_计算错误", "injected_content": "配方：f(x) = x² − 12x − 20 = (x² − 12x + 36) − 36 − 20 = (x − 6)² − 56（依据：完全平方公式，配常数项 (−12/2)² = 33）。"}
+{"id": "gold-004", "orig_id": "t3-027", "gold_error_step": 3, "gold_error_type": "E4_计算错误", "injected_content": "总数 = 41 + 8 + 1 = 53（依据：加法）。"}
+{"id": "gold-005", "orig_id": "t4-035", "gold_error_step": 2, "gold_error_type": "E7_幻觉编造", "injected_content": "化为指数式：x(x − 3) = 2² = 4（依据：拉格朗日中值定理）。"}
+{"id": "gold-006", "orig_id": "t2-019", "gold_error_step": 1, "gold_error_type": "E7_幻觉编造", "injected_content": "等比数列通项公式：a_n = a_1 × r^(n−1)（依据：拉格朗日中值定理）。"}
+{"id": "gold-007", "orig_id": "t3-032", "gold_error_step": 1, "gold_error_type": "E7_幻觉编造", "injected_content": "n! 末尾连续 0 的个数等于因子 5 的总个数，即 ⌊n/5⌋ + ⌊n/25⌋ + ⌊n/125⌋ + …（依据：柯西积分公式）。"}
+{"id": "gold-008", "orig_id": "t2-073", "gold_error_step": 2, "gold_error_type": "E7_幻觉编造", "injected_content": "因 1024 = 2^10，故 x = 10（依据：拉格朗日中值定理）。"}
+{"id": "gold-009", "orig_id": "t4-017", "gold_error_step": 1, "gold_error_type": "E7_幻觉编造", "injected_content": "钟面关系：分针每分钟走 6°（360°/60），时针每小时走 30°（360°/12）且每分钟走 0.5°（依据：柯西积分公式）。"}
+{"id": "gold-010", "orig_id": "t3-031", "gold_error_step": 2, "gold_error_type": "E4_计算错误", "injected_content": "代入 n = 173：⌊173/5⌋ = 34，⌊173/25⌋ = 6，⌊173/125⌋ = 1，⌊173/625⌋ = 1（依据：整除）。"}
+{"id": "gold-011", "orig_id": "t2-065", "gold_error_step": 1, "gold_error_type": "E4_计算错误", "injected_content": "从 12 人中无顺序选出 3 人，用组合数 C(12,3) = 9!/(3!·9!)（依据：组合数定义，选法无先后之分）。"}
+{"id": "gold-012", "orig_id": "t3-002", "gold_error_step": 2, "gold_error_type": "E7_幻觉编造", "injected_content": "代入 n = 30：S = 30 × 31 × (2×30 + 1) / 6 = 30 × 31 × 61 / 6（依据：柯西积分公式）。"}
+{"id": "gold-013", "orig_id": "t1-031", "gold_error_step": 1, "gold_error_type": "E7_幻觉编造", "injected_content": "“7 折”表示按原价的 70% 出售，即现价 = 原价 × 0.7（依据：柯西积分公式）。"}
+{"id": "gold-014", "orig_id": "t3-038", "gold_error_step": 1, "gold_error_type": "E7_幻觉编造", "injected_content": "用鞋带公式：S = |x₁(y₂−y₃) + x₂(y₃−y₁) + x₃(y₁−y₂)| / 2（依据：洛必达法则）。"}
+{"id": "gold-015", "orig_id": "t1-025", "gold_error_step": 1, "gold_error_type": "E7_幻觉编造", "injected_content": "“7 折”表示按原价的 70% 出售，即现价 = 原价 × 0.7（依据：拉格朗日中值定理）。"}
+{"id": "gold-016", "orig_id": "t3-006", "gold_error_step": 1, "gold_error_type": "E7_幻觉编造", "injected_content": "平方和公式：1² + 2² + … + n² = n(n+1)(2n+1)/6（依据：斯特林公式）。"}
+{"id": "gold-017", "orig_id": "t3-056", "gold_error_step": 2, "gold_error_type": "E4_计算错误", "injected_content": "代入 a₁ = 2，r = 2，n = 7：S₇ = 2×(2⁷ − 1)/(2 − 1) = 2×(128 − 1) = 2 × 127 = 252（依据：代入与计算）。"}
+{"id": "gold-018", "orig_id": "t2-002", "gold_error_step": 2, "gold_error_type": "E4_计算错误", "injected_content": "代入 a_1 = 5，d = 2，n = 10，先算括号内：2a_1 + (n−1)d = 2×5 + 9×2 = 10 + 18 = 25。"}
+{"id": "gold-019", "orig_id": "t1-043", "gold_error_step": 2, "gold_error_type": "E7_幻觉编造", "injected_content": "先算长与宽之和：6 + 8 = 14（依据：洛必达法则）。"}
+{"id": "gold-020", "orig_id": "t4-011", "gold_error_step": 1, "gold_error_type": "E7_幻觉编造", "injected_content": "从 1 楼走到 5 楼，经过的楼梯段数 = 5 − 1 = 4 段（依据：洛必达法则）。"}
+{"id": "gold-021", "orig_id": "t5-034", "gold_error_step": 1, "gold_error_type": "E4_计算错误", "injected_content": "设 N=104，k 个连续正整数（k≥2）之和：N = k(2a+k-1)/2，即 2N = k(2a+k-1)。"}
+{"id": "gold-022", "orig_id": "t5-003", "gold_error_step": 3, "gold_error_type": "E4_计算错误", "injected_content": "D_4 = 3·(D_3 + D_2) = 3·(2 + 1) = 8。"}
+{"id": "gold-023", "orig_id": "t1-008", "gold_error_step": 1, "gold_error_type": "E4_计算错误", "injected_content": "先算乘法：15 × 14 = 15 × (10 + 4) = 150 + 60 = 207（依据：乘法分配律与乘法优先级）。"}
+{"id": "gold-024", "orig_id": "t5-006", "gold_error_step": 1, "gold_error_type": "E7_幻觉编造", "injected_content": "统计 1 到 1000 中数字 9 出现的总次数，按数位（个位、十位、百位）分别计数（依据：柯西积分公式）。"}
+{"id": "gold-025", "orig_id": "t4-009", "gold_error_step": 2, "gold_error_type": "E7_幻觉编造", "injected_content": "总时间 = 锯的次数 × 每次耗时 = 5 × 5 = 25（分钟）（依据：柯西积分公式）。"}
+{"id": "gold-026", "orig_id": "t4-014", "gold_error_step": 2, "gold_error_type": "E7_幻觉编造", "injected_content": "总台阶数 = 楼梯段数 × 每段台阶数 = 10 × 16 = 160（级）（依据：斯特林公式）。"}
+{"id": "gold-027", "orig_id": "t2-035", "gold_error_step": 3, "gold_error_type": "E4_计算错误", "injected_content": "约分：11 为质数且不整除 95（95 = 3×19），11 与 95 互质，11/95 已为最简分数。"}
+{"id": "gold-028", "orig_id": "t1-018", "gold_error_step": 1, "gold_error_type": "E7_幻觉编造", "injected_content": "展开方程左边括号：8(x − 5) = 8·x − 8·5 = 8x − 40（依据：拉格朗日中值定理）。原方程化为 8x − 40 = 5x − 1。"}
+{"id": "gold-029", "orig_id": "t1-038", "gold_error_step": 2, "gold_error_type": "E4_计算错误", "injected_content": "先算长与宽之和：21 + 6 = 29（依据：加法）。"}
+{"id": "gold-030", "orig_id": "t1-059", "gold_error_step": 2, "gold_error_type": "E7_幻觉编造", "injected_content": "除以数据个数 5：175 ÷ 5 = 35（依据：柯西积分公式）。"}
